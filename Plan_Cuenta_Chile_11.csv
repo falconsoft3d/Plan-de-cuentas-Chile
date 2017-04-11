@@ -1,0 +1,294 @@
+Código;Nombre;Tipo/Nombre mostrado
+1111;EFECTIVO EN CAJA MONEDA NACIONAL;Banco y caja
+1111.10;Caja Chica M/N CLP;Banco y caja
+1111.20;Caja M/E USD;Banco y caja
+1111.30;Caja M/E EUR;Banco y caja
+1112;FONDOS FIJOS;Banco y caja
+1112.10;Fondos Fijos Bodegas;Banco y caja
+1113;FONDOS POR RENDIR;Banco y caja
+1113.10;Fondos por Rendir;Banco y caja
+1114;BANCOS EN MONEDA NACIONAL;Banco y caja
+1114.10;Banco BCI Cta. Corriente CLP N° 61472549;Banco y caja
+1114.20;Banco BCI Cta. Vista CLP;Banco y caja
+1114.30;Banco Estado Cta. Corriente CLP;Banco y caja
+1114.40;Banco Estado Cta. Vista CLP N°29170619313;Banco y caja
+1115;COBROS TRANSBANK;Banco y caja
+1115.10;Transbank Prepago;Banco y caja
+1115.20;Transbank Débito;Banco y caja
+1115.30;Transbank Crédito;Banco y caja
+1116;EFECTIVO EN BANCOS MONEDA EXTRANJERA;Banco y caja
+1116.10;Banco BCI USD;Banco y caja
+1116.20;Banco Estado USD;Banco y caja
+1117;EFECTIVO EN CRIPTOMONEDAS;Banco y caja
+1117.10;CryptoMarket CLP;Banco y caja
+1117.11;CryptoMarket ETH;Banco y caja
+1117.20;SurBTC CLP;Banco y caja
+1117.21;SurBTC BTC;Banco y caja
+1118;INVERSIONES Y DEPOSITOS A PLAZO;Banco y caja
+1118.10;Inversiones Fondos Mutuos;Banco y caja
+1118.20;Depósitos a Plazo Banco BCI;Banco y caja
+1118.30;Depósitos a Plazo Banco Estado;Banco y caja
+1118.40;Préstamos a Socios;Banco y caja
+1118.50;Otros Préstamos;Banco y caja
+1119;INVERSIONES EN CRIPTOMONEDAS;Banco y caja
+1119.10;Inversiones en ETH;Banco y caja
+1119.20;Inversiones en BTC;Banco y caja
+1120;DEUDORES POR VENTAS;Por cobrar
+1120.10;Deudores por Ventas Nacionales;Por cobrar
+1120.20;Deudores por Ventas Internacionales;Por cobrar
+1121;PROVISIONES DEUDORES POR VENTAS;Por cobrar
+1121.10;Provisiones Deudores por Ventas Nacionales;Por cobrar
+1121.20;Provisiones Deudores por Ventas Internacionales;Por cobrar
+1122;DOCUMENTOS POR COBRAR;Por cobrar
+1122.10;Documentos por Cobrar Ventas Nacionales;Por cobrar
+1122.20;Documentos por Cobrar Ventas Internacionales;Por cobrar
+1122.30;Documentos por Cobrar Gestión de Ventas;Por cobrar
+1122.40;Documentos por Cobrar Gestión de Cobranzas;Por cobrar
+1122.50;Documentos por Cobrar Gestión Judicial;Por cobrar
+1123;PROVISIONES DOCUMENTOS POR COBRAR;Por cobrar
+1123.10;Provisiones Documentos por Cobrar Ventas Nacionales;Por cobrar
+1123.20;Provisiones Documentos por Cobrar Ventas Internacionales;Por cobrar
+1123.30;Provisiones Documentos por Cobrar Gestión de Venta;Por cobrar
+1123.40;Provisiones Documentos por Cobrar Gestión de Cobranza;Por cobrar
+1123.50;Provisiones Documentos por Cobrar Gestión Judicial;Por cobrar
+1124;DEUDORES VARIOS;Por cobrar
+1124.10;Anticipo Proveedores Nacionales;Por cobrar
+1124.11;Anticipo Proveedores Internacionales;Por cobrar
+1124.20;Préstamos al Personal;Por cobrar
+1124.21;Anticipo de Remuneraciones;Por cobrar
+1124.30;Cuenta por Cobrar Proveedores;Por cobrar
+1124.40;Cuenta por Cobrar Socios;Por cobrar
+1124.50;Cuenta por Cobrar Honorarios Profesionales;Por cobrar
+1124.60;Anticipo por Arriendos;Por cobrar
+1124.70;Cuentas por Cobrar Empresas Relacionadas;Por cobrar
+1124.80;Otros Deudores;Por cobrar
+1131;EXISTENCIAS;Activos actuales
+1131.10;Productos Terminados Nacionales;Activos actuales
+1131.20;Productos Terminados Importados;Activos actuales
+1131.30;Productos en Proceso;Activos actuales
+1131.40;Materiales Varios;Activos actuales
+1131.50;Existencia en Tránsito;Activos actuales
+1131.60;Materias Primas;Activos actuales
+1141;GASTOS PAGADOS POR ANTICIPADO;Activos actuales
+1141.10;Arriendo Pagados por Anticipado;Activos actuales
+1141.20;Seguros Pagados por Anticipado;Activos actuales
+1141.30;Intereses Pagados por Anticipado;Activos actuales
+1142;AMORTIZACION GASTOS PAGADOS POR ANTICIPADO;Amortización
+1142.10;Amortizacion Arriendo Pagados por Anticipado;Amortización
+1142.20;Amortizacion Seguros Pagados por Anticipado;Amortización
+1142.30;Amortizacion Intereses Pagados por Anticipado;Amortización
+1151;IMPUESTOS POR RECUPERAR;Activos actuales
+1151.10;IVA Crédito Fiscal;Activos actuales
+1151.20;Pagos Provisionales Mensuales (PPM);Activos actuales
+1151.30;Gastos de Capacitación;Activos actuales
+1151.40;Donaciones;Activos actuales
+1211;NO DEPRECIABLE;Activos fijos
+1211.10;Terreno;Activos fijos
+1212;DEPRECIABLE;Activos fijos
+1212.10;Edificios;Activos actuales
+1212.11;Construcciones y Obras de Infraestructura;Activos actuales
+1212.20;Máquinas y Equipos;Activos actuales
+1212.30;Vehículos;Activos actuales
+1212.31;Kits Eléctricos para Vehículos;Activos actuales
+1212.40;Muebles y Enseres;Activos actuales
+1212.5;MUEBLES Y ENSERES;Activos actuales
+1212.50;Equipos de Computación;Activos actuales
+1212.51;Software;Activos actuales
+1212.6;EQUIPOS DE COMPUTACION;Activos actuales
+1212.60;Herramientas;Activos actuales
+1212.7;SOFTWARE;Activos actuales
+1212.70;Otros Activos Depreciables;Activos actuales
+1212.8;HERRAMIENTAS;Activos actuales
+1212.9;OTROS ACTIVOS DEPRECIABLES;Activos actuales
+1213;DEPRECIACION ACUMULADA;Activos actuales
+1213.10;Depreciación Acumulada Edificios;Activos actuales
+1213.11;Depreciación Acumulada Construcciones y Obras de Infraestructura;Activos actuales
+1213.20;Depreciación Acumulada Máquinas y Equipos;Activos actuales
+1213.30;Depreciación Acumulada Vehículos;Activos actuales
+1213.31;Depreciación Acumulada Kits Eléctricos para Vehículos;Activos actuales
+1213.40;Depreciacion Acumulada Muebles y Enseres;Activos actuales
+1213.50;Depreciación Acumulada Equipos de Computación;Activos actuales
+1213.51;Depreciación Acumulada Software;Activos actuales
+1213.60;Depreciación Acumulada Herramientas;Activos actuales
+1213.70;Depreciación Acumulada Otros Activos Depreciables;Activos actuales
+1221;ACTIVOS INTANGIBLES;Activos actuales
+1221.10;Plusvalías;Activos actuales
+1221.12;Patentes y Derechos de Marcas;Activos actuales
+1221.21;Menor Valor Inversión;Activos actuales
+1221.22;Mayor Valor Inversión;Activos actuales
+1222;AMORTIZACION ACTIVOS INTANGIBLES;Amortización
+1222.11;Amortizacion Plusvalías;Amortización
+1222.22;Amortizacion Patentes y Derechos Marcas;Amortización
+2111;PASIVO CORRIENTE;A pagar
+2111.10;Cuentas por Pagar Proveedores Nacionales;A pagar
+2111.11;Cuentas por Pagar Proveedores Internacionales;A pagar
+2111.13; Honorarios por Pagar;A pagar
+2111.20; Cuentas por Pagar Línea de Crédito BCI;A pagar
+2111.21;Cuentas por Pagar Línea de Crédito Banco Estado;A pagar
+2111.25; Cuentas por Pagar Tarjeta de Crédito VISA BCI;A pagar
+2111.30; Préstamos Banco BCI;A pagar
+2111.31;Préstamos Banco Estado;A pagar
+2111.32; Préstamos Coopeuch;A pagar
+2111.40; Préstamos de Socios;A pagar
+2111.41;Préstamos No Bancarios;A pagar
+2111.50; Cuentas por Pagar Accionistas;A pagar
+2111.51;Cuentas por Pagar Empresas Relacionadas;A pagar
+2111.52; Dividendos por Pagar;A pagar
+2111.53;Anticipos de Clientes;A pagar
+2112; IMPUESTOS POR PAGAR;A pagar
+2112.10; IVA Débito Fiscal;Pasivo actual
+2112.20; Impuesto a la Renta a Pagar;Pasivo actual
+2112.30; Retención Segunda Categoría (10%);Pasivo actual
+2112.40; Impuesto único a la Renta (Personas);Pasivo actual
+2113; RETENCIONES POR PAGAR;A pagar
+2113.10; Fondos de Pensiones por Pagar (AFP);A pagar
+2113.20; ISAPRES por Pagar;A pagar
+2113.30; Fonasa por Pagar;A pagar
+2113.40;Seguro de Cesantía (AFC) por Pagar;A pagar
+2113.50; Cargas Familiares por Pagar;A pagar
+2113.60;Mutualidad por Pagar;A pagar
+2113.70;Cajas de Compensación por Pagar;A pagar
+2211;PASIVO NO CORRIENTE;Pasivos no-corrientes
+2211.10;Cuentas por Pagar Proveedores Nacionales;Pasivos no-corrientes
+2211.11;Cuentas por Pagar Proveedores Internacionales;Pasivos no-corrientes
+2211.20;Préstamos Banco BCI;Pasivos no-corrientes
+2211.21;Préstamos Banco Estado;Pasivos no-corrientes
+2211.22;Préstamos Coopeuch;Pasivos no-corrientes
+2211.30;Préstamos No Bancarios;Pasivos no-corrientes
+2211.31;Préstamos de Socios;Pasivos no-corrientes
+2211.41;Cuentas por Pagar Accionistas;Pasivos no-corrientes
+2211.42;Cuentas por Pagar Empresas Relacionadas;Pasivos no-corrientes
+2211.43;Dividendos por Pagar;Pasivos no-corrientes
+2212;PROVISIONES VARIAS;Pasivos no-corrientes
+2212.10;Provisión Vacaciones;Pasivos no-corrientes
+2212.20;Provisión Gastos Servicios Básicos;Pasivos no-corrientes
+2212.30;Provision Impuesto a la Renta;Pasivos no-corrientes
+2212.40;Otras Provisiones Varias;Pasivos no-corrientes
+2213;OTROS PASIVOS NO CORRIENTES;Pasivos no-corrientes
+3111;CAPITAL;Valor neto
+3111.10;Capital Suscrito Pagado;Valor neto
+3111.20;Capital Suscrito No Pagado;Valor neto
+3111.30;Capital por Suscribir;Valor neto
+3112;RESERVA;Valor neto
+3112.10;Reservas Futuros Dividendos;Valor neto
+3112.20;Otras Reservas;Valor neto
+3113;CORRECION MONETARIA PATRIMONIO;Valor neto
+3113.10;Correción Monetaria Patrimonio;Valor neto
+3114;SUPERAVIT O DEFICIT ACUMULADO;Valor neto
+3114.10;Superávit o Déficit Acumulado;Valor neto
+3115;RESULTADO DEL EJERCICIO;Valor neto
+3115.10;Resultado del Ejercicio;Valor neto
+4111;INGRESOS POR SERVICIOS;Ingreso
+4111.10;Ventas por Servicios;Ingreso
+4111.20;Devolución sobre Ventas;Ingreso
+4111.30;Descuentos en Ventas;Ingreso
+4112;INGRESOS POR VENTAS PRODUCTOS NACIONALES;Ingreso
+4112.10;Ventas de Productos;Ingreso
+4112.20;Devolución sobre Ventas;Ingreso
+4112.30;Descuentos en Ventas;Ingreso
+4113;INGRESOS POR VENTAS PRODUCTOS INTERNACIONALES;Ingreso
+4113.10;Ventas de Productos Importados;Ingreso
+4113.20;Devolución sobre Ventas;Ingreso
+4113.30;Descuentos en Ventas;Ingreso
+4121;INGRESOS POR SUBSIDIOS Y PREMIOS;Ingreso
+4121.10;Subsidios CORFO;Ingreso
+4121.20;Premios Recibidos;Ingreso
+5111;COSTOS DE VENTAS POR SERVICIOS;Coste directo de la ventas
+5111.10;Salarios Operaciones;Coste directo de la ventas
+5111.20;Honorarios Repartidores;Coste directo de la ventas
+5111.30;Costos por Servicios;Coste directo de la ventas
+5111.40;Comisiones Pagadas Servicios;Coste directo de la ventas
+5111.50;Descuentos Otorgados;Coste directo de la ventas
+5111.80;Fondos de Pensiones (AFP);Coste directo de la ventas
+5111.81;Seguros de Salud (FONASA/ISAPRE);Coste directo de la ventas
+5111.82;Mutualidad;Coste directo de la ventas
+5111.83;Seguro de Cesantía;Coste directo de la ventas
+5111.84;Asignaciones Familiares;Coste directo de la ventas
+5111.85;Cajas de Compensación;Coste directo de la ventas
+5111.86;Aporte Patronal a Empleados;Coste directo de la ventas
+5111.91;Retenciones 10% Segunda Categoría;Coste directo de la ventas
+5112;COSTOS DE VENTAS DIRECTOS NACIONALES;Coste directo de la ventas
+5112.10;Costos Productos Nacionales;Coste directo de la ventas
+5112.20;Comisiones Pagadas Productos;Coste directo de la ventas
+5112.30;Descuentos Otorgados;Coste directo de la ventas
+5112.40;Fletes;Coste directo de la ventas
+5112.5;OTROS DERECHOS;Coste directo de la ventas
+5113;COSTOS DE VENTAS DIRECTOS IMPORTADOS;Coste directo de la ventas
+5113.10;Costos Productos Importados;Coste directo de la ventas
+5113.20;Honorarios Agentes de Aduana;Coste directo de la ventas
+5113.30;Seguros sobre Mercancía;Coste directo de la ventas
+5113.40;Fletes;Coste directo de la ventas
+5113.50;Otros derechos;Coste directo de la ventas
+6101.01;Diferencia Tipo de Cambio;Gastos
+6101.02;COMPRAS;Gastos
+6111;GASTOS DE PERSONAL;Gastos
+6111.10;Salarios a Empleados;Gastos
+6111.11;Honorarios a Directores/Accionistas;Gastos
+6111.12;Horas Extras;Gastos
+6111.13;Comisiones Empleados;Gastos
+6111.14;Bonificaciones Especiales;Gastos
+6111.15;Vacaciones y Bonos Relacionados;Gastos
+6111.16;Gratificaciones;Gastos
+6111.17;Viáticos;Gastos
+6111.18;Bonos de Alimentación;Gastos
+6111.19;Bonos de Transporte;Gastos
+6111.20;Fondos de Pensiones (AFP);Gastos
+6111.21;Seguros de Salud (FONASA/ISAPRE);Gastos
+6111.22;Mutualidad;Gastos
+6111.23;Seguro de Cesantía;Gastos
+6111.24;Asignaciones Familiares;Gastos
+6111.25;Cajas de Compensación;Gastos
+6111.26;Aporte Patronal a Empleados;Gastos
+6111.30;Equipamiento y Uniformes;Gastos
+6111.31;Movilización y Transporte;Gastos
+6111.32;Comidas;Gastos
+6111.33;Guarderías y Salas Cuna;Gastos
+6111.34;Capacitación y Cursos Educativos;Gastos
+6111.40;Regalos al personal;Gastos
+6121;GASTOS DE SERVICIOS GENERALES;Gastos
+6121.10;Alquiler de Inmuebles;Gastos
+6121.11;Internet y Telefonía;Gastos
+6121.12;Energía;Gastos
+6121.13;Servicios de Agua;Gastos
+6121.14;Gastos Comunes;Gastos
+6121.15;Gastos en Marketing;Gastos
+6121.16;Honorarios Profesionales;Gastos
+6121.17;Servicios de Contabilidad;Gastos
+6121.18;Servicios Legales y Notariales;Gastos
+6121.19;Seguros;Gastos
+6121.20;Gastos en Proyectos Tecnológicos;Gastos
+6121.21;Gastos en Software y Servicios Web;Gastos
+6121.22;Afiliaciones y Suscripciones;Gastos
+6121.23;Servicios de TV o Videos;Gastos
+6121.24;Donaciones y Colaboraciones;Gastos
+6121.25;Otros Servicios Contratados;Gastos
+6121.26;Otros Gastos;Gastos
+6131;GASTOS DE OFICINA Y LOCAL;Gastos
+6131.10;Limpieza, Aseo, Mantenimiento y Reparaciones;Gastos
+6131.11;Papeleria y Gastos de Oficina;Gastos
+6131.12;Equipos Menores;Gastos
+6131.13;Gastos de Depreciación;Gastos
+6131.14;Gastos de Amortización;Gastos
+6131.15;Afiliaciones y Suscripciones;Gastos
+6131.16;Gastos de Viajes;Gastos
+6131.17;Mantenimiento de Vehículos;Gastos
+6131.18;Materiales y Suministros;Gastos
+6131.19;Gastos de Representación;Gastos
+6131.20;Refrigerios y Snacks;Gastos
+6141;TASAS DE IMPUESTOS MUNICIPALES;Gastos
+6141.10;IVA Determinado;Gastos
+6141.11;Impuesto a la Renta;Gastos
+6141.12;Retenciones 10% Segunda Categoría;Gastos
+6141.13;Intereses y Multas SII;Gastos
+6141.14;Patente Municipal;Gastos
+6141.15;Pagos a Tesorería General de la República;Gastos
+6141.16;Intereses y Multas Tesorería General de la República;Gastos
+6141.17;Otras Multas e Intereses;Gastos
+6211;GASTOS BANCARIOS;Gastos
+6211.10;Comisiones Bancarias;Gastos
+6211.20;Comisiones por Compras Internacionales;Gastos
+6211.30;Impuestos Bancarios;Gastos
+6211.40;Gastos por Intereses Bancarios;Gastos
+6221;FLUCTUACION CAMBIARIA;Gastos
+6221.10;Diferencia por Tipo de Cambio CLP;Gastos
+999999;Pérdidas/ganancias no distribuídas;Ganancias año actual
